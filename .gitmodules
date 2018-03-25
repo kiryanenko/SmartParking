@@ -10,3 +10,6 @@
 [submodule "SmartParking-Raspberry"]
 	path = SmartParking-Raspberry
 	url = https://github.com/kiryanenko/SmartParking-Raspberry.git
+[submodule "SmartParking-Transceiver"]
+	path = SmartParking-Transceiver
+	url = https://github.com/kiryanenko/SmartParking-Transceiver.git
