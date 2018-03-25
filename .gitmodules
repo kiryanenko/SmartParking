@@ -7,3 +7,6 @@
 [submodule "SmartParking-Web"]
 	path = SmartParking-Web
 	url = https://github.com/kiryanenko/SmartParking-Web.git
+[submodule "SmartParking-Raspberry"]
+	path = SmartParking-Raspberry
+	url = https://github.com/kiryanenko/SmartParking-Raspberry.git
